@@ -1,0 +1,22 @@
+schema_version = "1.0.0"
+
+id = "blocky_text_generator"
+version = "1.0.0"
+name = "Text Generator (Blocky Minecraft Text)"
+tagline = "Generate blocky Minecraft-style text as 3D mesh objects"
+maintainer = "Artin (1amir2026) <noreply@example.com>"
+type = "add-on"
+
+website = "https://github.com/1amir2026/blockbench-text-generator-blender"
+
+tags = ["Add Mesh", "Object", "Game Engine"]
+
+blender_version_min = "4.2.0"
+
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+    "2026 Artin (1amir2026)",
+]

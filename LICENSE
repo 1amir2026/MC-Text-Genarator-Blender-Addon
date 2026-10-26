@@ -1,0 +1,29 @@
+Blocky Text Generator for Blender
+Copyright (C) 2026 Artin (1amir2026)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+NOTE ON THE ORIGINAL SOURCE
+
+This add-on is a from-scratch Python/Blender re-implementation ported from
+the behavior of the Blockbench plugin "Text Generator" by SirJain
+(https://github.com/SirJain0/TextGenerator). That original project does not
+declare a license (no LICENSE file, no license field in its metadata). No
+original JavaScript source code is redistributed in the addon/ directory of
+this project; the original file is kept only for reference under
+original_source/ and is not covered by the GPL-3.0 terms above. See
+docs/porting-notes.md for details and for contact information if the
+original author wishes to specify terms.
